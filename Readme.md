@@ -39,6 +39,7 @@ Follow [our installing guide](http://expressjs.com/en/starter/installing.html)
 for more information.
 
 ## Features
+# sanjeet
 
   * Robust routing
   * Focus on high performance
@@ -75,7 +76,7 @@ $ npm install -g express-generator@4
 $ express /tmp/foo && cd /tmp/foo
 ```
 
-  Install dependencies:
+  Install dependencies: 
 
 ```console
 $ npm install
